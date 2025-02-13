@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Adminsite
+// @name           Clown Spinner for Azure
 // @description    Clown Spinner for Azure Pipelines
 // @version        1.0
 // @downloadURL    https://github.com/Lovasz-Akos/Azure-Clown-Spinner/raw/master/clown.user.js
